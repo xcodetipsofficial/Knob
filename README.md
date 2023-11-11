@@ -1,5 +1,4 @@
 # Knob
-UI Knob
 
 ## Description
 Tip #542: Knob. A Custom Knob UI created using UIKit. Can implement this in SwiftUI using the view representable. The code for this Custom Knob is on Github.
